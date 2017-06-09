@@ -1,2 +1,0 @@
-# ssweb1
-Assignment
